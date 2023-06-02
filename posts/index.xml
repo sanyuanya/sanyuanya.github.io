@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My New Hugo Site</title>
-    <link>http://example.org/posts/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <title>Posts on 你可真丑</title>
+    <link>https://sanyuanya.github.io/posts/</link>
+    <description>Recent content in Posts on 你可真丑</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 02 Jun 2023 18:04:48 +0800</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 02 Jun 2023 18:04:48 +0800</lastBuildDate><atom:link href="https://sanyuanya.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Last</title>
-      <link>http://example.org/posts/last/</link>
+      <link>https://sanyuanya.github.io/posts/last/</link>
       <pubDate>Fri, 02 Jun 2023 18:04:48 +0800</pubDate>
-      
-      <guid>http://example.org/posts/last/</guid>
+
+      <guid>https://sanyuanya.github.io/posts/last/</guid>
       <description></description>
     </item>
-    
+
     <item>
       <title>First</title>
-      <link>http://example.org/posts/first/</link>
+      <link>https://sanyuanya.github.io/posts/first/</link>
       <pubDate>Thu, 01 Jun 2023 18:11:40 +0800</pubDate>
-      
-      <guid>http://example.org/posts/first/</guid>
+
+      <guid>https://sanyuanya.github.io/posts/first/</guid>
       <description>随便写点什么 我想尝试写写博客，这样能帮助到自己，说不定也能帮助到别人，我是一个乐于分享的人，我计划开始行动 第一次用md语法来写，不太熟练，正好也是学习md的好机会</description>
     </item>
-    
+
   </channel>
 </rss>
